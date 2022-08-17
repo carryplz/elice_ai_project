@@ -123,7 +123,7 @@
 ## 3. 기능
 
 ### 프로젝트 전체 기능 정리
-- [프로젝트 전체 기능 정리](https://github.com/carryplz/elice_ai_project.wiki.git)
+- [프로젝트 전체 기능 정리](https://github.com/carryplz/elice_ai_project/wiki/%EC%A0%84%EC%B2%B4%EA%B8%B0%EB%8A%A5%EC%A0%95%EB%A6%AC#%EC%A0%84%EC%B2%B4-%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC)
 
 ### ⚙ 메인 기능
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8d5e303-b470-4f5a-b8bd-a6dd8b5a15ce/%EB%8B%A8%EC%96%B4%EC%9E%A5%EB%A7%8C%EB%93%A4%EA%B8%B0.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220722%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220722T063902Z&X-Amz-Expires=86400&X-Amz-Signature=cd77b519204d223fc51070676c9c0c4984e8139f19d51bd3dd904e71c51c261d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EB%258B%25A8%25EC%2596%25B4%25EC%259E%25A5%25EB%25A7%258C%25EB%2593%25A4%25EA%25B8%25B0.gif%22&x-id=GetObject"  width="700" height="380"> <br>
