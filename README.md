@@ -105,7 +105,7 @@
 -->
 
 ### 🗃 시스템 아키텍처
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ba25ed50-07b1-4fc6-824e-34e414a67ba7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220722%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220722T103517Z&X-Amz-Expires=86400&X-Amz-Signature=3c2575b4231829f1b58a41e947ee89e05b769a66ffdbb9843f5f5de0312af0c4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="700" height="400">
+![image](https://user-images.githubusercontent.com/80820432/185145793-bb722e15-8ccf-4ad2-8c1d-cd215a388dbd.png)
 <!-- ![image](https://user-images.githubusercontent.com/59808674/176872369-f3cee8a6-fa93-4064-a4aa-b838eccd7b4c.png)   -->
 
 ### 🛠 ER-Diagram
